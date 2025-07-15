@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/cod02777/storefront
+    url: https://da.live/cod02777/storefront
     type: markup
 
 folders:
